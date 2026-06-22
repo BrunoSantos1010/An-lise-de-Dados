@@ -9,7 +9,7 @@ Este projeto tem como objetivo analisar dados de vendas para identificar oportun
 - VSCode
 - Git Hub
 
-# 3 Processo ETl
+# 3 Processo ETL
 ## Extração
 - Importação dos dados em Excel.
 

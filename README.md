@@ -38,7 +38,10 @@ Este projeto tem como objetivo analisar dados de vendas para identificar oportun
 - Receita de cada Marca
 
  # 6 Dashboard
-
+div align="center"
+img src="<img width="913" height="507" alt="Image" src="https://github.com/user-attachments/assets/63efd917-66a2-4ac4-b33d-d789f0fbf93c" />" width="700px" /> </div>
 
 
  # 7 Principais Insights
+div align="center"
+img src="<img width="758" height="489" alt="Image" src="https://github.com/user-attachments/assets/c8f6cb2b-412c-4f69-b292-33c3a18d1b1e" />" width="700px" /> </div>
